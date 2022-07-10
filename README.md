@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prav11nn
+- 👋 Hi, I’m @praveen
 - 👀 I’m interested in blockchain devolepment
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on any software company
